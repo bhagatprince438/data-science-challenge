@@ -26,7 +26,7 @@ To achieve the **highest possible prediction accuracy** and derive insights that
 The model helps identify at-risk customers early and allows companies to design retention strategies to reduce churn rates and increase customer satisfaction.
 
 ## 📂 Project Files
-- `data_science_challenge.ipynb` – Main Jupyter Notebook   
+- `data-science-challenge.ipynb` – Main Jupyter Notebook   
 - `README.md` – Project summary and documentation  
 
 ## 👨‍💻 Author
