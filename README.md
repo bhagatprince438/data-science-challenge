@@ -26,11 +26,10 @@ To achieve the **highest possible prediction accuracy** and derive insights that
 The model helps identify at-risk customers early and allows companies to design retention strategies to reduce churn rates and increase customer satisfaction.
 
 ## 📂 Project Files
-- `data_science_challenge.ipynb` – Main Jupyter Notebook  
-- `dataset.csv` – Input dataset (if available)  
+- `data_science_challenge.ipynb` – Main Jupyter Notebook   
 - `README.md` – Project summary and documentation  
 
 ## 👨‍💻 Author
-**[Your Name]**  
+**Prince Bhagat**
 Completed under *Coursera Project Network – Data Science Challenge*  
-[LinkedIn Profile link] (optional)
+www.linkedin.com/in/prince-bhagat-18275b326
